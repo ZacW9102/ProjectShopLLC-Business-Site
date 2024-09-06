@@ -16,6 +16,8 @@
 .navbar a {
   color: whitesmoke;
   text-decoration: none;
-  margin: 0 1rem;
+  margin: auto;
   font-size: 1.5rem;
+  width: 90wv;
+
 }
