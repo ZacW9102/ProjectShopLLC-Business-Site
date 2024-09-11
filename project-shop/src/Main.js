@@ -1,5 +1,10 @@
 export default function Main() {
     return (
-        <h1>Main</h1>
+        <div className="main-container">
+            <div className="header">
+                <h1>WELCOME TO</h1>
+                <h1>PROJECT SHOP, LLC</h1>
+            </div>
+        </div>
     )
 }
