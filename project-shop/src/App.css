@@ -5,7 +5,7 @@
 /*    Navbar Styling     */
 
 .navbar {
-  height: 75px;
+  height: 8vh;
   width: 75%;
   margin: auto;
   display: flex;
@@ -33,3 +33,17 @@
 }
 
 /*   Main Styling*/
+
+.main-container {
+  background-color: rgb(153, 153, 153);
+  height: 82vh;
+}
+
+.main-container h1,
+.footer-container h1 {
+  margin: 0;
+}
+
+
+/*   Footer Styling    */
+
